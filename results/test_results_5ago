@@ -1,0 +1,390 @@
+['87043', 55.877502, 0.8255968888600668, '59.8130']  - pulse:  1
+['85777', 'no disruption', 'correct']  - pulse:  2
+['88120', 'no disruption', 'correct']  - pulse:  3
+['85978', 57.1075, 0.9339340527852377, '60.0093']  - pulse:  4
+['86366', 'no disruption', 'correct']  - pulse:  5
+['86165', 'no disruption', 'correct']  - pulse:  6
+['87739', 'no disruption', 'correct']  - pulse:  7
+['88638', 'no disruption', 'correct']  - pulse:  8
+['90978', 'no disruption', 'correct']  - pulse:  9
+['92182', 48.197502, 0.8034358024597168, '51.0461']  - pulse:  10
+['88686', 'no disruption', 'correct']  - pulse:  11
+['85423', 'no disruption', 'correct']  - pulse:  12
+['91309', 'no disruption', 'correct']  - pulse:  13
+['89463', 54.0475, 0.800438642501831, '54.5792']  - pulse:  14
+['91809', 'no disruption', 'correct']  - pulse:  15
+['87260', 'no disruption', 'correct']  - pulse:  16
+['87246', 'no disruption', 'correct']  - pulse:  17
+['87372', 'no disruption', 'correct']  - pulse:  18
+['89668', 49.247498, 0.9930278261502584, '49.6363']  - pulse:  19
+['92240', 50.8375, 0.8201115131378174, '51.4659']  - pulse:  20
+['89601', 'no disruption', 'correct']  - pulse:  21
+['85719', 'no disruption', 'correct']  - pulse:  22
+['87702', 'no disruption', 'correct']  - pulse:  23
+['87464', 'no disruption', 'correct']  - pulse:  24
+['86617', 52.3975, 0.8550634582837423, '53.2712']  - pulse:  25
+['89871', 'no disruption', 'correct']  - pulse:  26
+['89325', 'no disruption', 'correct']  - pulse:  27
+['86442', 'no disruption', 'correct']  - pulse:  28
+['86046', 'no disruption', 'correct']  - pulse:  29
+['87867', 'no disruption', 'correct']  - pulse:  30
+['87009', 'no disruption', 'correct']  - pulse:  31
+['90191', 48.3475, 0.9212044775485992, 'Late - 46.6158']  - pulse:  32
+['87434', 44.5675, 0.9073401093482971, 'error: non-disruptive']  - pulse:  33
+['91104', 'no disruption', 'correct']  - pulse:  34
+['89715', 'no disruption', 'correct']  - pulse:  35
+['87640', 52.7875, 0.9770023822784424, '53.2625']  - pulse:  36
+['92087', 54.5275, 0.964354415734609, '64.7820']  - pulse:  37
+['90407', 'no disruption', 'correct']  - pulse:  38
+['92156', 41.5375, 0.8532136082649231, '41.9178']  - pulse:  39
+['91543', 'no disruption', 'correct']  - pulse:  40
+['87034', 'no disruption', 'correct']  - pulse:  41
+['92441', 51.2275, 0.8882192075252533, 'error: non-disruptive']  - pulse:  42
+['88170', 'no disruption', 'correct']  - pulse:  43
+['89767', 'no disruption', 'correct']  - pulse:  44
+['85054', 'no disruption', 'correct']  - pulse:  45
+['88731', 'no disruption', 'correct']  - pulse:  46
+['85816', 'no disruption', 'correct']  - pulse:  47
+['87354', 45.0475, 0.8230590522289276, 'error: non-disruptive']  - pulse:  48
+['90493', 'no disruption', 'correct']  - pulse:  49
+['91869', 'no disruption', 'correct']  - pulse:  50
+['85871', 'no disruption', 'correct']  - pulse:  51
+['85065', 55.247498, 0.811888575553894, 'error: non-disruptive']  - pulse:  52
+['92496', 60.4375, 0.8630586961905161, 'error: non-disruptive']  - pulse:  53
+['87770', 'no disruption', 'correct']  - pulse:  54
+['86910', 'no disruption', 'correct']  - pulse:  55
+['85612', 'no disruption', 'correct']  - pulse:  56
+['88425', 'no disruption', 'correct']  - pulse:  57
+['90647', 'no disruption', 'correct']  - pulse:  58
+['88852', 'no disruption', 'correct']  - pulse:  59
+['87341', 'no disruption', 'correct']  - pulse:  60
+['88999', 'no disruption', 'correct']  - pulse:  61
+['89512', 'no disruption', 'correct']  - pulse:  62
+['92269', 49.9075, 0.8618152936299642, '50.0104']  - pulse:  63
+['91301', 'no disruption', 'correct']  - pulse:  64
+['91919', 'no disruption', 'correct']  - pulse:  65
+['86381', 53.9875, 0.9508546789487203, 'Late - 54.0158']  - pulse:  66
+['91370', 'no disruption', 'correct']  - pulse:  67
+['91221', 'no disruption', 'correct']  - pulse:  68
+['86806', 'no disruption', 'correct']  - pulse:  69
+['87571', 60.1375, 0.9923481643199921, '61.0115']  - pulse:  70
+['85265', 'no disruption', 'correct']  - pulse:  71
+['90324', 'no disruption', 'correct']  - pulse:  72
+['86055', 'no disruption', 'correct']  - pulse:  73
+['88431', 'no disruption', 'correct']  - pulse:  74
+['88348', 'no disruption', 'correct']  - pulse:  75
+['89966', 'no disruption', 'correct']  - pulse:  76
+['89005', 'no disruption', 'correct']  - pulse:  77
+['88474', 'no disruption', 'correct']  - pulse:  78
+['90287', 'no disruption', 'correct']  - pulse:  79
+['88763', 'no disruption', 'correct']  - pulse:  80
+['91903', 'no disruption', 'correct']  - pulse:  81
+['87385', 51.947502, 0.8273823956648508, '52.6234']  - pulse:  82
+['85422', 51.4375, 0.8120871285597483, '51.5159']  - pulse:  83
+['88464', 'no disruption', 'correct']  - pulse:  84
+['85754', 'no disruption', 'correct']  - pulse:  85
+['91249', 'no disruption', 'correct']  - pulse:  86
+['85892', 'no disruption', 'correct']  - pulse:  87
+['89743', 'no disruption', 'correct']  - pulse:  88
+['85809', 52.997498, 0.840417742729187, 'error: non-disruptive']  - pulse:  89
+['86765', 'no disruption', 'correct']  - pulse:  90
+['90726', 'no disruption', 'correct']  - pulse:  91
+['92423', 49.6075, 0.9878129263718923, 'error: non-disruptive']  - pulse:  92
+['90692', 49.9675, 0.9913632373015085, '52.0191']  - pulse:  93
+['86241', 'no disruption', 'correct']  - pulse:  94
+['91613', 'no disruption', 'correct']  - pulse:  95
+['91790', 'no disruption', 'correct']  - pulse:  96
+['91521', 'no disruption', 'correct']  - pulse:  97
+['85688', 'no disruption', 'correct']  - pulse:  98
+['89089', 'no disruption', 'correct']  - pulse:  99
+['90837', 'no disruption', 'correct']  - pulse:  100
+['87641', 'no disruption', 'correct']  - pulse:  101
+['85729', 'no disruption', 'correct']  - pulse:  102
+['85435', 'no disruption', 'correct']  - pulse:  103
+['91035', 55.5775, 0.9915879170099894, '56.8603']  - pulse:  104
+['90378', 43.6375, 0.849666049083074, '60.1184']  - pulse:  105
+['89736', 'no disruption', 'correct']  - pulse:  106
+['88218', 'no disruption', 'correct']  - pulse:  107
+['86501', 'no disruption', 'correct']  - pulse:  108
+['90637', 'no disruption', 'correct']  - pulse:  109
+['90058', 'no disruption', 'correct']  - pulse:  110
+['91549', 'no disruption', 'correct']  - pulse:  111
+['87567', 'no disruption', 'correct']  - pulse:  112
+['85177', 56.3275, 0.832520325978597, '56.8951']  - pulse:  113
+['92068', 'no disruption', 'correct']  - pulse:  114
+['88811', 'no disruption', 'correct']  - pulse:  115
+['85474', 'no disruption', 'correct']  - pulse:  116
+['92302', 'no disruption', 'correct']  - pulse:  117
+['89849', 'no disruption', 'correct']  - pulse:  118
+['90590', 'no disruption', 'correct']  - pulse:  119
+['88915', 'no disruption', 'correct']  - pulse:  120
+['87710', 'no disruption', 'correct']  - pulse:  121
+['87577', 60.0775, 0.9670416116714478, '61.0177']  - pulse:  122
+['85175', 'no disruption', 'correct']  - pulse:  123
+['88968', 'no disruption', 'correct']  - pulse:  124
+['89791', 'no disruption', 'correct']  - pulse:  125
+['91157', 'no disruption', 'correct']  - pulse:  126
+['91943', 'no disruption', 'correct']  - pulse:  127
+['85713', 'no disruption', 'correct']  - pulse:  128
+['85857', 'no disruption', 'error']  - pulse:  129
+['91628', 46.877502, 0.892182856798172, '52.0047']  - pulse:  130
+['88982', 47.2975, 0.8392874300479889, 'error: non-disruptive']  - pulse:  131
+['85737', 52.3375, 0.8949662744998932, 'error: non-disruptive']  - pulse:  132
+['91777', 'no disruption', 'correct']  - pulse:  133
+['88745', 60.3475, 0.8217604557673136, 'error: non-disruptive']  - pulse:  134
+['89486', 53.0575, 0.8107594648996989, 'error: non-disruptive']  - pulse:  135
+['86966', 'no disruption', 'correct']  - pulse:  136
+['90088', 'no disruption', 'correct']  - pulse:  137
+['91578', 'no disruption', 'correct']  - pulse:  138
+['88870', 'no disruption', 'correct']  - pulse:  139
+['91126', 'no disruption', 'correct']  - pulse:  140
+['91875', 'no disruption', 'correct']  - pulse:  141
+['90595', 55.9675, 0.997619221607844, '56.9308']  - pulse:  142
+['85548', 42.2575, 0.8142927487691244, 'error: non-disruptive']  - pulse:  143
+['92320', 'no disruption', 'correct']  - pulse:  144
+['89413', 'no disruption', 'correct']  - pulse:  145
+['92187', 'no disruption', 'correct']  - pulse:  146
+['88503', 'no disruption', 'correct']  - pulse:  147
+['88962', 'no disruption', 'correct']  - pulse:  148
+['88457', 'no disruption', 'correct']  - pulse:  149
+['89634', 'no disruption', 'correct']  - pulse:  150
+['90377', 50.2675, 0.9460190931955973, 'error: non-disruptive']  - pulse:  151
+['89592', 'no disruption', 'correct']  - pulse:  152
+['87846', 'no disruption', 'correct']  - pulse:  153
+['89567', 'no disruption', 'correct']  - pulse:  154
+['85482', 55.1875, 0.9753706256548563, '60.0120']  - pulse:  155
+['89701', 'no disruption', 'correct']  - pulse:  156
+['86919', 'no disruption', 'correct']  - pulse:  157
+['87810', 'no disruption', 'correct']  - pulse:  158
+['90575', 'no disruption', 'correct']  - pulse:  159
+['86698', 'no disruption', 'error']  - pulse:  160
+['86291', 56.0875, 0.9935837090015411, '57.9750']  - pulse:  161
+['85774', 46.247498, 0.809576412041982, '46.7863']  - pulse:  162
+['89953', 'no disruption', 'correct']  - pulse:  163
+['87382', 'no disruption', 'correct']  - pulse:  164
+['86662', 43.5175, 0.9321557482083639, 'error: non-disruptive']  - pulse:  165
+['87543', 60.1675, 0.9702823162078857, 'Late - 60.1053']  - pulse:  166
+['86199', 'no disruption', 'correct']  - pulse:  167
+['90221', 'no disruption', 'correct']  - pulse:  168
+['86156', 'no disruption', 'correct']  - pulse:  169
+['85537', 'no disruption', 'correct']  - pulse:  170
+['87288', 'no disruption', 'correct']  - pulse:  171
+['88894', 'no disruption', 'error']  - pulse:  172
+['86802', 59.6875, 0.8045571247736613, '63.3613']  - pulse:  173
+['86455', 51.0775, 0.8283701737721761, 'Late - 51.0373']  - pulse:  174
+['87777', 'no disruption', 'correct']  - pulse:  175
+['87323', 'no disruption', 'correct']  - pulse:  176
+['92200', 51.677498, 0.8068002462387085, 'error: non-disruptive']  - pulse:  177
+['87161', 'no disruption', 'correct']  - pulse:  178
+['91681', 'no disruption', 'correct']  - pulse:  179
+['91959', 'no disruption', 'correct']  - pulse:  180
+['87426', 'no disruption', 'correct']  - pulse:  181
+['88291', 'no disruption', 'correct']  - pulse:  182
+['92232', 'no disruption', 'correct']  - pulse:  183
+['87086', 'no disruption', 'correct']  - pulse:  184
+['86892', 49.6075, 0.8991047342618307, 'error: non-disruptive']  - pulse:  185
+['89906', 'no disruption', 'correct']  - pulse:  186
+['91456', 'no disruption', 'correct']  - pulse:  187
+['90818', 'no disruption', 'correct']  - pulse:  188
+['88934', 'no disruption', 'correct']  - pulse:  189
+['92034', 50.8675, 0.996940036614736, '55.9359']  - pulse:  190
+['86492', 61.0075, 0.8715773622194926, 'error: non-disruptive']  - pulse:  191
+['90414', 'no disruption', 'correct']  - pulse:  192
+['92220', 46.2775, 0.9669211308161417, '46.7365']  - pulse:  193
+['90051', 'no disruption', 'correct']  - pulse:  194
+['90279', 'no disruption', 'correct']  - pulse:  195
+['89862', 'no disruption', 'correct']  - pulse:  196
+['86449', 59.1475, 0.8341701825459799, 'error: non-disruptive']  - pulse:  197
+['91424', 'no disruption', 'correct']  - pulse:  198
+['91280', 'no disruption', 'correct']  - pulse:  199
+['89855', 'no disruption', 'correct']  - pulse:  200
+['91120', 'no disruption', 'correct']  - pulse:  201
+['86598', 'no disruption', 'correct']  - pulse:  202
+['85041', 56.8075, 0.8266061544418335, 'error: non-disruptive']  - pulse:  203
+['91657', 54.3475, 0.9427370627721151, '59.2922']  - pulse:  204
+['85707', 'no disruption', 'correct']  - pulse:  205
+['85077', 60.0175, 0.9459502100944519, '61.3525']  - pulse:  206
+['85007', 'no disruption', 'correct']  - pulse:  207
+['90312', 52.0375, 0.9866199692090353, 'Late - 52.0074']  - pulse:  208
+['91199', 'no disruption', 'correct']  - pulse:  209
+['90686', 55.6375, 0.9094485541184744, '57.0425']  - pulse:  210
+['88493', 50.447502, 0.8253898819287618, 'error: non-disruptive']  - pulse:  211
+['87783', 'no disruption', 'correct']  - pulse:  212
+['91826', 46.9075, 0.8722021480401357, '56.1450']  - pulse:  213
+['86229', 'no disruption', 'correct']  - pulse:  214
+['90390', 51.5875, 0.8389097352822622, '52.0177']  - pulse:  215
+['91528', 'no disruption', 'correct']  - pulse:  216
+['87827', 52.1875, 0.8334895173708597, '53.0866']  - pulse:  217
+['90146', 'no disruption', 'correct']  - pulse:  218
+['89035', 'no disruption', 'correct']  - pulse:  219
+['87183', 'no disruption', 'correct']  - pulse:  220
+['85933', 'no disruption', 'correct']  - pulse:  221
+['85898', 'no disruption', 'correct']  - pulse:  222
+['89247', 53.5675, 0.9425034622351328, '53.7700']  - pulse:  223
+['87908', 'no disruption', 'correct']  - pulse:  224
+['92432', 51.8275, 0.8281190792719523, '52.3770']  - pulse:  225
+['91748', 'no disruption', 'correct']  - pulse:  226
+['87074', 'no disruption', 'error']  - pulse:  227
+['90524', 'no disruption', 'correct']  - pulse:  228
+['86235', 'no disruption', 'correct']  - pulse:  229
+['87225', 49.247498, 0.8042557140191396, 'error: non-disruptive']  - pulse:  230
+['87732', 'no disruption', 'correct']  - pulse:  231
+['89140', 'no disruption', 'correct']  - pulse:  232
+['85790', 'no disruption', 'correct']  - pulse:  233
+['86174', 'no disruption', 'correct']  - pulse:  234
+['89026', 58.1875, 0.9775212307771047, 'error: non-disruptive']  - pulse:  235
+['88133', 'no disruption', 'correct']  - pulse:  236
+['92213', 52.4875, 0.9618724683920542, '53.7096']  - pulse:  237
+['90561', 44.747498, 0.8084654112656912, 'error: non-disruptive']  - pulse:  238
+['91392', 'no disruption', 'correct']  - pulse:  239
+['85223', 'no disruption', 'correct']  - pulse:  240
+['86904', 'no disruption', 'error']  - pulse:  241
+['88212', 'no disruption', 'correct']  - pulse:  242
+['87490', 50.5975, 0.9368425110975901, 'error: non-disruptive']  - pulse:  243
+['92290', 'no disruption', 'correct']  - pulse:  244
+['85165', 47.5975, 0.8468431035677592, 'error: non-disruptive']  - pulse:  245
+['89320', 55.2175, 0.9456845919291178, '55.5315']  - pulse:  246
+['87347', 'no disruption', 'correct']  - pulse:  247
+['87792', 'no disruption', 'correct']  - pulse:  248
+['89526', 'no disruption', 'correct']  - pulse:  249
+['87070', 'no disruption', 'correct']  - pulse:  250
+['89009', 54.0175, 0.904483844836553, '54.2541']  - pulse:  251
+['90873', 'no disruption', 'correct']  - pulse:  252
+['89722', 'no disruption', 'correct']  - pulse:  253
+['87280', 'no disruption', 'correct']  - pulse:  254
+['92273', 'no disruption', 'correct']  - pulse:  255
+['92054', 46.697502, 0.8862970968087515, '47.3534']  - pulse:  256
+['89879', 'no disruption', 'correct']  - pulse:  257
+['92482', 61.1575, 0.8235604465007782, 'error: non-disruptive']  - pulse:  258
+['88164', 'no disruption', 'correct']  - pulse:  259
+['85701', 'no disruption', 'correct']  - pulse:  260
+['87538', 'no disruption', 'correct']  - pulse:  261
+['85199', 'no disruption', 'correct']  - pulse:  262
+['92003', 45.8575, 0.8390526870886484, '46.3323']  - pulse:  263
+['89371', 46.0075, 0.8246286412080129, '46.5565']  - pulse:  264
+['90946', 'no disruption', 'correct']  - pulse:  265
+['85942', 62.3275, 0.8056710859139761, '62.5249']  - pulse:  266
+['92336', 'no disruption', 'correct']  - pulse:  267
+['87236', 'no disruption', 'correct']  - pulse:  268
+['89250', 'no disruption', 'correct']  - pulse:  269
+['86870', 'no disruption', 'correct']  - pulse:  270
+['91688', 'no disruption', 'correct']  - pulse:  271
+['88605', 'no disruption', 'correct']  - pulse:  272
+['91229', 'no disruption', 'correct']  - pulse:  273
+['88881', 'no disruption', 'correct']  - pulse:  274
+['90305', 50.0275, 0.9929619630177816, '52.0336']  - pulse:  275
+['91734', 'no disruption', 'correct']  - pulse:  276
+['91403', 'no disruption', 'correct']  - pulse:  277
+['88148', 'no disruption', 'correct']  - pulse:  278
+['88927', 'no disruption', 'correct']  - pulse:  279
+['86932', 53.5975, 0.8364542424678802, 'error: non-disruptive']  - pulse:  280
+['88268', 'no disruption', 'correct']  - pulse:  281
+['88521', 'no disruption', 'correct']  - pulse:  282
+['90811', 'no disruption', 'correct']  - pulse:  283
+['87634', 'no disruption', 'correct']  - pulse:  284
+['85911', 'no disruption', 'correct']  - pulse:  285
+['90435', 'no disruption', 'correct']  - pulse:  286
+['90781', 'no disruption', 'correct']  - pulse:  287
+['89350', 'no disruption', 'correct']  - pulse:  288
+['90199', 'no disruption', 'correct']  - pulse:  289
+['88798', 49.0675, 0.8165133893489838, 'error: non-disruptive']  - pulse:  290
+['89045', 58.9675, 0.8039119442303976, 'error: non-disruptive']  - pulse:  291
+['91555', 'no disruption', 'correct']  - pulse:  292
+['88899', 'no disruption', 'correct']  - pulse:  293
+['85162', 'no disruption', 'error']  - pulse:  294
+['92391', 'no disruption', 'correct']  - pulse:  295
+['89186', 48.2875, 0.8184093534946442, 'error: non-disruptive']  - pulse:  296
+['90547', 'no disruption', 'correct']  - pulse:  297
+['90449', 'no disruption', 'correct']  - pulse:  298
+['91315', 'no disruption', 'correct']  - pulse:  299
+['86428', 'no disruption', 'correct']  - pulse:  300
+['90164', 'no disruption', 'correct']  - pulse:  301
+['91623', 'no disruption', 'correct']  - pulse:  302
+['91584', 'no disruption', 'correct']  - pulse:  303
+['87108', 'no disruption', 'correct']  - pulse:  304
+['88248', 'no disruption', 'correct']  - pulse:  305
+['92173', 48.7375, 0.8701814810434977, 'error: non-disruptive']  - pulse:  306
+['91784', 'no disruption', 'correct']  - pulse:  307
+['90033', 'no disruption', 'correct']  - pulse:  308
+['90751', 'no disruption', 'correct']  - pulse:  309
+['92280', 'no disruption', 'correct']  - pulse:  310
+['91600', 'no disruption', 'correct']  - pulse:  311
+['86479', 63.7975, 0.8398347198963165, 'error: non-disruptive']  - pulse:  312
+['92024', 'no disruption', 'correct']  - pulse:  313
+['90297', 'no disruption', 'correct']  - pulse:  314
+['91412', 'no disruption', 'correct']  - pulse:  315
+['89586', 'no disruption', 'correct']  - pulse:  316
+['91709', 50.9875, 0.8374062975247701, '51.6590']  - pulse:  317
+['85648', 'no disruption', 'correct']  - pulse:  318
+['90049', 55.0675, 0.8273677925268809, '55.4714']  - pulse:  319
+['87718', 61.4875, 0.839103639125824, 'error: non-disruptive']  - pulse:  320
+['87002', 'no disruption', 'correct']  - pulse:  321
+['85190', 52.1575, 0.9262279371420542, '52.8608']  - pulse:  322
+['91441', 'no disruption', 'correct']  - pulse:  323
+['88844', 49.997498, 0.8047806918621063, 'error: non-disruptive']  - pulse:  324
+['85562', 'no disruption', 'correct']  - pulse:  325
+['90697', 'no disruption', 'correct']  - pulse:  326
+['91924', 47.2075, 0.9145092169443766, '47.8435']  - pulse:  327
+['90789', 'no disruption', 'correct']  - pulse:  328
+['87628', 'no disruption', 'correct']  - pulse:  329
+['89546', 'no disruption', 'correct']  - pulse:  330
+['87751', 42.2275, 0.860939621925354, 'error: non-disruptive']  - pulse:  331
+['90831', 'no disruption', 'correct']  - pulse:  332
+['91137', 'no disruption', 'correct']  - pulse:  333
+['89938', 'no disruption', 'correct']  - pulse:  334
+['89369', 'no disruption', 'correct']  - pulse:  335
+['89645', 'no disruption', 'correct']  - pulse:  336
+['85139', 'no disruption', 'correct']  - pulse:  337
+['86186', 'no disruption', 'correct']  - pulse:  338
+['88660', 'no disruption', 'correct']  - pulse:  339
+['88585', 'no disruption', 'correct']  - pulse:  340
+['87887', 'no disruption', 'correct']  - pulse:  341
+['89960', 'no disruption', 'correct']  - pulse:  342
+['87298', 'no disruption', 'correct']  - pulse:  343
+['88450', 'no disruption', 'correct']  - pulse:  344
+['90362', 54.6175, 0.8090466459592184, 'Late - 53.0241']  - pulse:  345
+['89580', 'no disruption', 'correct']  - pulse:  346
+['87167', 'no disruption', 'correct']  - pulse:  347
+['90103', 'no disruption', 'correct']  - pulse:  348
+['86149', 'no disruption', 'correct']  - pulse:  349
+['88354', 'no disruption', 'correct']  - pulse:  350
+['91764', 'no disruption', 'correct']  - pulse:  351
+['92133', 'no disruption', 'correct']  - pulse:  352
+['89619', 'no disruption', 'correct']  - pulse:  353
+['86192', 'no disruption', 'correct']  - pulse:  354
+['87531', 49.4575, 0.8164873023827871, '57.9229']  - pulse:  355
+['85676', 'no disruption', 'correct']  - pulse:  356
+['91570', 49.3075, 0.8099242150783539, '49.4386']  - pulse:  357
+['86855', 51.3175, 0.8001967072486877, 'Late - 51.0094']  - pulse:  358
+['86420', 'no disruption', 'correct']  - pulse:  359
+['85571', 'no disruption', 'correct']  - pulse:  360
+['86821', 'no disruption', 'correct']  - pulse:  361
+['91009', 'no disruption', 'correct']  - pulse:  362
+['89506', 'no disruption', 'correct']  - pulse:  363
+['85883', 41.627502, 0.8231395184993744, '49.8140']  - pulse:  364
+['91292', 48.7375, 0.9881081581115723, '49.0094']  - pulse:  365
+['89260', 'no disruption', 'correct']  - pulse:  366
+['92076', 42.6475, 0.8107568919658661, 'error: non-disruptive']  - pulse:  367
+['90843', 'no disruption', 'correct']  - pulse:  368
+['87549', 61.0375, 0.9973442653814951, 'Late - 61.0158']  - pulse:  369
+['90177', 'no disruption', 'correct']  - pulse:  370
+['87880', 'no disruption', 'correct']  - pulse:  371
+['85205', 'no disruption', 'correct']  - pulse:  372
+['89499', 'no disruption', 'correct']  - pulse:  373
+['86679', 'no disruption', 'correct']  - pulse:  374
+['86138', 'no disruption', 'correct']  - pulse:  375
+['88332', 'no disruption', 'correct']  - pulse:  376
+['90331', 52.0975, 0.8391246497631073, 'error: non-disruptive']  - pulse:  377
+['88383', 'no disruption', 'correct']  - pulse:  378
+['90442', 50.0875, 0.8233522176742554, 'error: non-disruptive']  - pulse:  379
+['87620', 'no disruption', 'correct']  - pulse:  380
+['87420', 'no disruption', 'correct']  - pulse:  381
+['91644', 'no disruption', 'correct']  - pulse:  382
+
+FP: 38 / 317
+FN: 14 / 65
+
+11,98% False Alarms
+21,5% Missed Alarms
+
+
